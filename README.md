@@ -48,17 +48,6 @@ Build a networking-first Robot World system where:
 
 ---
 
-# Project Structure
-src/
-├── main/java/za/co/wethinkcode/
-│   ├── server/
-│   └── client/
-│
-└── test/java/za/co/wethinkcode/
-    ├── server/
-    └── client/
-
----
 
 # Learning Objectives
 This project focuses on:
@@ -108,8 +97,5 @@ mvn exec:java -Dexec.mainClass="za.co.wethinkcode.client.Client"
 # Why This Project Matters
 This project exists to strengthen real understanding of Java networking and architecture, while also serving as a portfolio project demonstrating client-server development, multithreading, and software engineering fundamentals.
 
----
 
-# Author
-Built by Zinhle Hlongwani as a Java networking and software engineering foundation project.
 EOF
